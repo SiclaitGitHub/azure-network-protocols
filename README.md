@@ -1,14 +1,16 @@
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
+<img width="798" alt="Screen Shot 2023-07-13 at 1 53 05 AM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/6277a40f-cb89-45cd-9f35-7c447414b3a0">
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
+Nessus Vulnerability Scanner Installation and Deployment 
+Nessus is a widely used vulnerability scanning tool and security platform developed by Tenable Network Security. It is designed to help organizations identify vulnerabilities, misconfigurations, and other security issues in their computer systems, network devices, and applications.
+
+Nessus performs comprehensive security assessments by scanning target systems and analyzing their configurations, services, and applications. It employs a vast database of known vulnerabilities and utilizes various techniques to identify potential security risks, such as outdated software versions, weak passwords, and insecure network configurations. The tool can scan both internal and external network resources and supports a wide range of operating systems, network devices, and applications.
+
+Once the scanning process is complete, Nessus generates detailed reports that provide information about the identified vulnerabilities, their severity, and recommendations for remediation. These reports help security professionals and system administrators prioritize and address the vulnerabilities to strengthen the security posture of their systems.
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Nessus Vulnerability Scanner Installation & Deployment](https://www.youtube.com/watch?v=x87gbgQD4eg)
 
 <h2>Environments and Technologies Used</h2>
 
