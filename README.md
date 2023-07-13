@@ -35,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="908" alt="Screen Shot 2023-07-10 at 1 30 29 PM" src="https://github.com/SiclaitGitHub/osticket-prereqs/assets/139138443/4f97a83e-1c37-4210-9dc1-8530cb7f91bf">
 
 
-1. Set up your Azure Virtual Machine
+1. Set up your Azure Virtual Machine -OS:  Windows 10 (VM1)
 
 Azure is a cloud computing platform and service offered by Microsoft. It provides a wide range of cloud services that enable organizations to build, deploy, and manage applications and services through Microsoft-managed data centers.
 
@@ -44,6 +44,22 @@ A virtual machine (VM) on Microsoft Azure is a computing resource that uses soft
 Create a new Azure resource group, virtual network, subnet and virtual machine running Windows 10. Choose a VM size according to your needs. Once the VM is set up, you will need to connect to it using Remote Desktop. For this, you'll need the public IP address of the VM and the credentials you provided during the VM setup.
 </p>
 <br />
+
+<img width="800" alt="Screen Shot 2023-07-12 at 10 37 45 PM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/e91c239b-b41c-4282-ae21-a0b5f33643f2">
+
+
+2. Set up 2nd Azure Virtual Machine - OS: Ubuntu Server -Gen2 linux (VM2)
+
+Azure is a cloud computing platform and service offered by Microsoft. It provides a wide range of cloud services that enable organizations to build, deploy, and manage applications and services through Microsoft-managed data centers.
+
+A virtual machine (VM) on Microsoft Azure is a computing resource that uses software instead of a physical computer to run programs and deploy apps. Each VM instance can run its own operating system (OS), which means multiple VMs can run different operating systems on the same physical machine.
+
+Create a new Azure resource group, virtual network, subnet and virtual machine running Windows 10. Choose a VM size according to your needs. Once the VM is set up, you will need to connect to it using Remote Desktop. For this, you'll need the public IP address of the VM and the credentials you provided during the VM setup.
+</p>
+<br />
+
+
+
 
 
 <p>
