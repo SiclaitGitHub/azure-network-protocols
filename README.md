@@ -15,23 +15,20 @@ Once the scanning process is complete, Nessus generates detailed reports that pr
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- Nessus Local Version
 
-<h2>Operating Systems Used </h2>
-
+<h2> Operating System Used</h2>
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
+- Create Vurtual machin in Azure
+- Install Nessus Application
+- Run Vulnerability Scanner
+- Address Vulverabilities
+- Report Finsings
+  
 <h2>Actions and Observations</h2>
 
 <img width="908" alt="Screen Shot 2023-07-10 at 1 30 29 PM" src="https://github.com/SiclaitGitHub/osticket-prereqs/assets/139138443/4f97a83e-1c37-4210-9dc1-8530cb7f91bf">
