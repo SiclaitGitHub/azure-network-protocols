@@ -10,7 +10,7 @@ An NSG acts as a virtual firewall, allowing you to define inbound and outbound t
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 -WireShark
 
 <h2> Operating System Used</h2>
@@ -19,7 +19,7 @@ An NSG acts as a virtual firewall, allowing you to define inbound and outbound t
 
 <h2>High-Level Steps</h2>
 
-- Create Vurtual machin in Azure
+- Create Vurtual machine in Azure
 - Install Nessus Application
 - Run Vulnerability Scanner
 - Address Vulverabilities
