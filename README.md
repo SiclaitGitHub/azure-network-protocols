@@ -50,7 +50,7 @@ Create a new Azure resource group, virtual network, subnet and virtual machine r
 
 2. Set up 2nd Azure Virtual Machine - OS: Ubuntu Server 20.04 LTS - x64 Gen2 aka Linux (VM2)
 
-Create a new Azure resource group, virtual network, subnet and virtual machine running Ubuntu Server -x64 Gen2 also known as Linux . Choose a VM size according to your needs. Once the VM2 is set up, you will need to connect to it using Remote Desktop. For this, you'll need the public IP address of the VM and the credentials you provided during the VM setup.
+Create a new Azure resource group, virtual network, subnet and virtual machine running Ubuntu Server 20.04 LTS - x64 Gen2 also known as Linux . Choose a VM size according to your needs. Once the VM2 is set up, you will need to connect to it using Remote Desktop. For this, you'll need the public IP address of the VM and the credentials you provided during the VM setup.
 </p>
 <br />
 
