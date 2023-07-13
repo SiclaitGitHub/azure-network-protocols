@@ -1,21 +1,17 @@
-<img width="798" alt="Screen Shot 2023-07-13 at 1 53 05 AM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/6277a40f-cb89-45cd-9f35-7c447414b3a0">
+<img width="910" alt="Screen Shot 2023-07-13 at 8 45 49 AM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/d6877251-7c35-492f-88d5-41b4c6ccfc66">
 
 
-Nessus Vulnerability Scanner Installation and Deployment 
-Nessus is a widely used vulnerability scanning tool and security platform developed by Tenable Network Security. It is designed to help organizations identify vulnerabilities, misconfigurations, and other security issues in their computer systems, network devices, and applications.
+A Network Security Group (NSG) is a networking feature provided by cloud service providers, such as Microsoft Azure and Amazon Web Services (AWS), to enforce network security policies and control the flow of network traffic in a virtual network (VNet) or a subnet.
 
-Nessus performs comprehensive security assessments by scanning target systems and analyzing their configurations, services, and applications. It employs a vast database of known vulnerabilities and utilizes various techniques to identify potential security risks, such as outdated software versions, weak passwords, and insecure network configurations. The tool can scan both internal and external network resources and supports a wide range of operating systems, network devices, and applications.
+An NSG acts as a virtual firewall, allowing you to define inbound and outbound traffic rules to permit or deny specific types of network communication. These rules can be based on various criteria, including source and destination IP addresses, ports, protocols, and direction of traffic.
 
-Once the scanning process is complete, Nessus generates detailed reports that provide information about the identified vulnerabilities, their severity, and recommendations for remediation. These reports help security professionals and system administrators prioritize and address the vulnerabilities to strengthen the security posture of their systems.
-
-<h2>Video Demonstration</h2>
 
 - ### [YouTube: Nessus Vulnerability Scanner Installation & Deployment](https://www.youtube.com/watch?v=x87gbgQD4eg)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Nessus Local Version
+-WireShark
 
 <h2> Operating System Used</h2>
 - Windows 10 (21H2)
