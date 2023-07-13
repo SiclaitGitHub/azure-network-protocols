@@ -58,7 +58,13 @@ Create a new Azure resource group, virtual network, subnet and virtual machine r
 </p>
 <p>
 3. Install WireShark on VM1
-</p>
+
+Wireshark is an open-source network protocol analyzer and packet capture tool. It is used for monitoring and analyzing network traffic in real-time. With Wireshark, you can capture and examine the packets flowing across a network and gain insight into the communication between different devices and protocols.
+
+Wireshark allows you to capture packets from various network interfaces, including Ethernet, Wi-Fi, and Bluetooth. It supports a wide range of protocols, including TCP/IP, HTTP, DNS, FTP, SSH, and many others. You can use Wireshark to analyze both wired and wireless network traffic.
+
+- Install latest version of "WireShark"off so the website. Select "Wndows Installer" then open and install file once dowloaded. 
+
 <br />
 
 <p>
