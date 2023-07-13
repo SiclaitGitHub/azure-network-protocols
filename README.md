@@ -53,15 +53,11 @@ Create a new Azure resource group, virtual network, subnet and virtual machine r
 </p>
 <br />
 
-
-
-
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1197" alt="Screen Shot 2023-07-13 at 8 39 41 AM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/ca3b2b6d-853c-4fc7-9a25-f7e055aa92d0">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Install WireShark on VM1
 </p>
 <br />
 
