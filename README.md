@@ -102,5 +102,11 @@ The "ping" function refers to the act of sending ICMP Echo Request messages from
 <img width="1427" alt="Screen Shot 2023-07-13 at 11 08 28 PM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/b35829d2-4365-4dba-a381-603b75546b90">
 
 7. Establish SSH Remote Access of VM2 (Linux) from MV1(Windows 10) via PowerShell
+
+- Open PowerShell Application via the Start menu on VM1
+- Type "ssh User305@10.0.0.5" (username@PrivateIP) and press "Enter"
+- PowerShell will ask you to confirm the action. Type "yes" then press "Enter"
+- PowerShell will prompt you to enter VM2's password. Type VM2's passwork then press "Enter"
+- Remote accress to VM2's command line should be established. 
 </p>
 <br />
