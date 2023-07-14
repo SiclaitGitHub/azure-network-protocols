@@ -92,7 +92,7 @@ The primary function of ICMP is to report errors and provide feedback regarding 
 The "ping" function refers to the act of sending ICMP Echo Request messages from one device to another device in order to test network connectivity and measure the round-trip time (RTT) between them. It is a commonly used utility in networking and is available on most operating systems.
 
 - Type "ICMP" in the search bat at the top of the WireSahrk window the press "Enter"
-- You will notice that no ICMP traffic is visible. This is eauce the Network Security Group of VM@ is blocking th eflow of this type of traffic between VM! and VM2.
+- You will notice that no ICMP traffic is visible. This is eauce the Network Security Group of VM@ is blocking th eflow of this type of traffic between VM1 and VM2.
 
 
 <img width="1427" alt="Screen Shot 2023-07-13 at 11 08 28 PM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/b35829d2-4365-4dba-a381-603b75546b90">
