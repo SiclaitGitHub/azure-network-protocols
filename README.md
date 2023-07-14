@@ -11,19 +11,23 @@ An NSG acts as a virtual firewall, allowing you to define inbound and outbound t
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
--WireShark
+- WireShark
+- PowerShell
+- Microsoft Remote Desktop
 
 <h2> Operating System Used</h2>
 - Windows 10 (21H2)
+- Ubuntu Version 20.04 LTS (Linux)
 
 
 <h2>High-Level Steps</h2>
 
-- Create Vurtual machine in Azure
-- Install Nessus Application
-- Run Vulnerability Scanner
-- Address Vulverabilities
-- Report Finsings
+- Create Vurtual machine in Azure - VM1 (Windows 10)
+- Create Virtula Machine in Azure - VM2 (Linux)
+- Install WireShark Application
+- Configure WireShark
+- Filter IMCP traffic
+- Establich SSH Remote Access to VM2 (Linux) from VM1( Windows 10)
   
 <h2>Actions and Observations</h2>
 
