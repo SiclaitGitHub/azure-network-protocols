@@ -77,7 +77,7 @@ Wireshark allows you to capture packets from various network interfaces, includi
 <img width="871" alt="Screen Shot 2023-07-13 at 7 47 24 PM" src="https://github.com/SiclaitGitHub/azure-network-protocols/assets/139138443/367c9d36-4c2d-4454-af3e-e59cc5e0065c">
 
 5. Observe traffic on the WireShark interfcae
-- Once the application begins to run you will see traffic consisting on arious protocols. (Ex: ICMP, HTTP, TCP)
+- Once the application begins to run you will see traffic consisting on arious protocols. (Ex: ICMP, HTTP, TCP,SSH)
 
 
 
